@@ -44,7 +44,7 @@ You can go to http://127.0.0.1:9000/minio/bucket1/ to see backup data in Minio (
 
 ## Restoration scenario
 
-Now I would like retore file outside Docker.
+Now I would like restore file outside Docker.
 
 ```
 $ brew install restic
